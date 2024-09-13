@@ -18,6 +18,8 @@
   },
   "dependencies": {
     "@unhead/vue": "1.10.0",
+    "@vuepic/vue-datepicker": "^9.0.3",
+    "date-fns": "^3.6.0",
     "pinia": "2.2.0",
     "vue": "3.5.3",
     "vue-router": "4.4.0"
